@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab6_multiThreading_task2</string>
+    <string name="picture">URL picture</string>
+</resources>
